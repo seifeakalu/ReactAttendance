@@ -6,13 +6,13 @@
 
 
 ## Functionalities 
-=> Login
-=> register student
-=> register course
-=> register classs course
-=> Add semester
-=> add accadamic year
-=> add  instructor to the acadamic year
+├── => Login
+├── => register student
+├── => register course
+├── => register classs course
+├── => Add semester
+├── => add accadamic year
+├── => add  instructor to the acadamic year
 
 
 
