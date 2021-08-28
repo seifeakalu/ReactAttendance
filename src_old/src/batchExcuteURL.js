@@ -1,1 +1,0 @@
-export const BatchUrl="http://10.1.85.10/node_start.php";
