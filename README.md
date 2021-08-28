@@ -6,6 +6,9 @@
 
 
 ## Functionalities 
+
+```
+
 ├── => Login
 ├── => register student
 ├── => register course
