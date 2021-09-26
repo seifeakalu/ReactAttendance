@@ -1,4 +1,4 @@
-## [Student Registration for Attendance ]
+## Student Registration for Attendance 
 
 <a href="http://ourattendance.com/attendance/">Go to Live Application</a><br>
 React Material Dashboard has been used<br>
