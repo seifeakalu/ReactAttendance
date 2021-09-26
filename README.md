@@ -1,7 +1,8 @@
 ## [Student Registration for Attendance ]
 
-
-[[React Material Dashboard has been used](https://s3.eu-west-2.amazonaws.com/devias/products/react-material-dashboard/react-material-free-xl.jpg)](https://react-material-dashboard.devias.io/)
+<a href="http://ourattendance.com/attendance/">Go to Live Application</a><br>
+React Material Dashboard has been used
+(https://s3.eu-west-2.amazonaws.com/devias/products/react-material-dashboard/react-material-free-xl.jpg)](https://react-material-dashboard.devias.io/)
 
 
 
