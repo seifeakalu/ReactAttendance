@@ -1,9 +1,9 @@
 ## Student Registration for Attendance 
 
 <a href="http://ourattendance.com/attendance/">Go to Live Application</a><br>
-React Material Dashboard has been used<br>
+<h1>React Material Dashboard has been used<h1><br>
 React Hooks with Material UI template application which enroll student and instructor to class, stream. 
-It has Pagination And Express-session with Back-end NodeJS Rest API
+It has Pagination And Express-session for Authentication and Authorization with Back-end NodeJS(Express) Rest API
 <a href="https://react-material-dashboard.devias.io/">Go to Material UI Dashboard</a><br>
 
 
