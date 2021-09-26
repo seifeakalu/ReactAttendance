@@ -30,7 +30,8 @@ The documentation for the React Material Kit is can be found [here](https://mate
 
 ## File Structure
 
-Within the download you'll find the following directories and files:
+Within the Material UI download it has  the following directories and files.
+based on the existing structure, this application has been developed :
 
 ```
 material-react-dashboard
@@ -55,15 +56,10 @@ material-react-dashboard
 	├── theme
 	├── views
 	│	├── Account
-	│	├── Dashboard
-	│	├── Icons
 	│	├── NotFound
-	│	├── ProductList
 	│	├── Settings
 	│	├── SignIn
 	│	├── SignUp
-	│	├── Typography
-	│	└── UserList
 	├── App.jsx
 	├── index.jsx
 	└── Routes.jsx
